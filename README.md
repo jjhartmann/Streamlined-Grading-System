@@ -10,23 +10,23 @@ replicate a real world software engineering enviroment.
 For the entire semester ~3 Months, we were placed in groups of 8 and had to work together to accomplish 
 a prototype of the proposed project. 
 
-Team members:
-Patrick Wan,  phwan@sfu.ca
-XuShun Qiu,  xsq@sfu.ca
-Demet Dilekci, ddilekci@sfu.ca
-Jeremy Hartmann, jhartman@sfu.ca
-Asante Nyamekye, anyameky@sfu.ca
-zihan chen, czihan@sfu.ca
-Lekabari Nghana, lnghana@sfu.ca
-Kwan Yui Wong, kyw6@sfu.ca
+##Team members: 
+* Patrick Wan,  phwan@sfu.ca
+* XuShun Qiu,  xsq@sfu.ca
+* Demet Dilekci, ddilekci@sfu.ca
+* Jeremy Hartmann, jhartman@sfu.ca
+* Asante Nyamekye, anyameky@sfu.ca
+* Zihan Chen, czihan@sfu.ca
+* Lekabari Nghana, lnghana@sfu.ca
+* Kwan Yui Wong, kyw6@sfu.ca
 
-
+## Process
 As a team we went through all phases of software development, from: 
-(1) requirment acquisition and planning, 
-(2) design and planning
-(3) Implementation and coding
-(4) Testing 
-(5) Deployment
+1. requirment acquisition and planning, 1
+2. design and planning, 2
+3. Implementation and coding, 3
+4. Testing, 4 
+5. Deployment, 5
 Due to the sturcture of the course and time constraints, maintence was not full covered and there was less emphasis
 on the testing and deployment phases.
 
