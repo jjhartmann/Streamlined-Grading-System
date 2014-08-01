@@ -29,6 +29,6 @@ As a team we went through all phases of software development, from:
 <li>Testing, </li>
 <li>Deployment, </li>
 </ol>
-Due to the sturcture of the course and time constraints, maintence was not full covered and there was less emphasis
+Due to the sturcture of the course and time constraints, maintence was not fully covered and there was less emphasis
 on the testing and deployment phases.
 
