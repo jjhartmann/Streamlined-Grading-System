@@ -22,11 +22,13 @@ a prototype of the proposed project.
 
 ## Process
 As a team we went through all phases of software development, from: 
-1. requirment acquisition and planning, 1
-2. design and planning, 2
-3. Implementation and coding, 3
-4. Testing, 4 
-5. Deployment, 5
+<ol>
+<li>requirment acquisition and planning, </li>
+<li>design and planning, </li>
+<li>Implementation and coding, </li>
+<li>Testing, </li>
+<li>Deployment, </li>
+</ol>
 Due to the sturcture of the course and time constraints, maintence was not full covered and there was less emphasis
 on the testing and deployment phases.
 
